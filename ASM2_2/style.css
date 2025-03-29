@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+
+h2 {
+    color: gray;
+}
+
+img {
+    height: 300px;
+    display: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+}
+
+
+.visible {
+  visibility: visible !important;
+}
+.invisible {
+  visibility: hidden !important;
+}
+
+.mt-0 {
+    margin-top: 0 !important;
+  }
+  
+.mt-n1 {
+    margin-top: -0.25rem !important;
+}
